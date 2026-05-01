@@ -3,6 +3,7 @@
 ## Author：王令基
 ## 主要教材：《动手学深度学习》书籍
 链接🔗
+
 网页版：https://zh.d2l.ai/chapter_preface/index.html
 
 PDF版：https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf
